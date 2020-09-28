@@ -96,7 +96,7 @@ components:
     Pets:
       type: array
       items:
-        $ref: "#/components/schemas/Pet"
+        $ref: "#/components/schemas/Pet" PMAK-5f71a02a5a89a700340359c5-3fee4c1b916a7b713acd7f218a93d1b6b1
     Error:
       required:
         - code
